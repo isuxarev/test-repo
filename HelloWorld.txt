@@ -1,3 +1,4 @@
 print("Hello, my world!")
 print("Hello, everyone!")
 print("New string.")
+#Это конец первого урока.
